@@ -1,24 +1,9 @@
-NSABlocklist© project original created under the ISC license 2015 - 2019 by [CHEF-KOCH](https://github.com/CHEF-KOCH).
-
-<p align="center">
-  <img width="480" height="510" src="https://raw.githubusercontent.com/CHEF-KOCH/NSABlocklist/master/.github/Pictures/big-brother.jpg")">
-</p>
-
-[![Matrix](https://img.shields.io/matrix/cknews:matrix.org.svg?label=CK%27s%20Technology%20News%20-%20Matrix%20Chat&server_fqdn=matrix.org&style=popout)](https://matrix.to/#/#cknews:matrix.org)
-![Twitter Follow](https://img.shields.io/twitter/follow/@CKsTechNews.svg?label=Follow%20%40CKsTechNews&style=social)
-[![Discord](https://discordapp.com/api/guilds/418256415874875402/widget.png)](https://discord.me/CHEF-KOCH)
-[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/CHEF-KOCH)
+Counter-Intelligence Research & Mitigation Guide for Financial Industry Experts, University Scholars, and Local Governments. Built from Chef-Koch's NSABlocklist. 
 
 Description
 ------------
 
-This isn't yet another [hosts file](https://en.wikipedia.org/wiki/Hosts_(file)) or [DNSBL](https://en.wikipedia.org/wiki/DNSBL) that claims to secure the web, it's specially designed to _stop_ known NSA / GCHQ / C.I.A. or F.B.I. servers from being connecting to you without permission, of course the IPs also can be used for Bot Revolt or other tools. The list is not designed to block common malware, spyware/ads or anything that is already available on the net via a proper designed hosts for such special case. This hosts or the super ranges lists could block some of your sites/servers you may need, so you'll be warned!
-
-
-My list is original based on 2007 published Wikileaks documents and includes my own modifications from 2008, 2012, 2014 and 2015.
-
-
-**Current Status**: 2,45 Mio files (not everything upload [yet]). I need to wait for GitHub approval in order to bulk upload bigger file set (100MB+ files).
+This isn't yet another [hosts file](https://en.wikipedia.org/wiki/Hosts_(file)) or [DNSBL](https://en.wikipedia.org/wiki/DNSBL) that claims to secure the web, it's specially designed to _stop_ known NSA / GCHQ / C.I.A. or F.B.I. and Foreign Government servers from being connecting to you without permission, of course the IPs also can be used for Bot Revolt or other tools. The list is not designed to block common malware, spyware/ads or anything that is already available on the net via a proper designed hosts for such special case. This hosts or the super ranges lists could block some of your sites/servers you may need, so you'll be warned!
 
 
 Mass surveillance is official illegal
@@ -73,14 +58,6 @@ Important Notice
 
 
 
-Do you hate the NSA or other agencies?
-------------
-
-* I do not _hate_ the NSA or other agencies but I really don't like that everyone is automatically under the microscope (mass surveillance) and of course that there is no 'opt-out' or transparency except lies and more lies (and some excuses ...yeah, we are doing this because terrorism, go f$ck yourself with such statements!)
-* Everyone have something to hide, passwords, private data, accounts, other meta-data, [...]
-
-
-
 Known problems
 ------------
 
@@ -129,30 +106,6 @@ NSA Resources and public program(s)
 * [National Security Agency (github.com)](https://github.com/nationalsecurityagency)
 * [Ghidra reverse engineering (SRE) framework (nsa.gov)](https://www.nsa.gov/resources/everyone/ghidra/) [[story](https://www.theregister.co.uk/2019/03/06/nsa_ghidra_joyce/)]
 * [NSA public source code repo (code.nsa.gov)](https://code.nsa.gov/) 
-
-
-
-
-Project History
-------------
-
-- [x] 01.07.2019 Added some Anti-DPI programs.
-- [x] 27.11.2018 NordVPN audit leaked.
-- [x] 04.06.2018 Add Anti-NSA project list.
-- [x] 03.06.2018 Ipfilter update, Amazon list finally fully merged.
-- [x] 06.05.2018 Readme updates, pdf section sorted, new PDF files updated. Project Status added, several other minor changes.
-- [x] 05.05.2018 Ipfilter update.
-- [x] 22.03.2018 Bitcoing (Blockchain) tracking documents (revealed by E.S.) added
-- [x] 21.01.2018 Intel, AMD, Trusted Computing papers added among Vault 8 (Hive) source and documentation
-- [x] 30.01.2016 Video section added, official guidance from nsa.gov added + an section for future tips
-- [x] 15.09.2015 Separate the into his own References.txt file (list was also updated)
-- [x] 04.09.2015 Added Ipv6 list, sort the test lists in his own cat.
-- [x] 02.09.2015 Added 'Snowden documents compilations'
-- [x] 19.08.2015 Added Backbone Providers and other involved services
-- [x] 18.08.2015 More domains added 7821 in total
-- [x] 16.08.2015 Removed some duplicates and added new domains, small Readme.md changes
-- [x] 15.08.2015 Created a new start page chef-koch.github.io/NSABlocklist
-- [x] 14.08.2015 Initial upload of the entire project and small Readme.md corrections
 
 
 
