@@ -1,4 +1,4 @@
-Counter-Intelligence Research & Mitigation Guide for Financial Industry Experts, University Scholars, and Local Governments. Built from Chef-Koch's NSABlocklist. 
+Counter-Intelligence Research & Mitigation Guide for Financial Industry Experts, Universities, and Local Governments. Built from Chef-Koch's NSABlocklist. 
 
 Description
 ------------
